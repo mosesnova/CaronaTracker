@@ -15,4 +15,4 @@ API used: https://covid19.mathdro.id/api
 Setup:
 - run ```npm i && npm start```
 
-project corona tracker master
+project corona tracker master on local d: drive of acer nitro black for source code in react js.
