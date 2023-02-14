@@ -18,3 +18,4 @@ Setup:
 project corona tracker master on local d: drive of acer nitro black for source code in react js can manipulate image.png for banner change.
 
 ![Test Imag 8](https://github.com/mosesnova/CaronaTracker/blob/main/Covid.JPG)
+![Test Imag 8](https://github.com/mosesnova/CaronaTracker/blob/main/h.jpg)
